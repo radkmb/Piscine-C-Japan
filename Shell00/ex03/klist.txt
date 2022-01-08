@@ -1,0 +1,5 @@
+Credentials cache: API:C8660ACA-8A25-47FF-AC96-F8AEF8A80B55
+        Principal: rfukuda@42TOKYO.JP
+
+  Issued                Expires               Principal
+Feb  3 18:17:47 2020  Feb  4 04:17:47 2020  krbtgt/42TOKYO.JP@42TOKYO.JP
