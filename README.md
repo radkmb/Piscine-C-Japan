@@ -1,5 +1,4 @@
-# Piscine-C-Japan
-2020年2月にPiscineに合格した記録です。  
+# Piscine-C-Japan 
 | 課題名 | 点数 |
 |:---:|:---:|
 |Shell00 |100✔️ |
